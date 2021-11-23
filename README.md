@@ -2,6 +2,9 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae16e07b81fa4818a6186de60ffb23cf)](https://app.codacy.com/gh/Ramyasri04/M1_App_PatientVaccination?utm_source=github.com&utm_medium=referral&utm_content=Ramyasri04/M1_App_PatientVaccination&utm_campaign=Badge_Grade_Settings)
 
+# code_Inspector
+CODE_QUALITY_SCORE:
 https://api.codiga.io/project/29863/score/svg
 
+CODE_GRADE:
 https://api.codiga.io/project/29863/status/svg
